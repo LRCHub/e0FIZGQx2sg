@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "わたしの音",
+  "base_artist": "大森元貴",
+  "createdAt": "2026-01-09T16:58:11.212540Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしの音",
+      "artist": "大森元貴",
+      "has_synced": false,
+      "path": "select/pl_01_わたしの音_大森元貴.txt"
+    }
+  ]
+}
